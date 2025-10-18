@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+tensorflow
+keras
+Pillow
+requests
+joblib
+streamlit
+tqdm
+scipy

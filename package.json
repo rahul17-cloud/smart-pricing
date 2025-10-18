@@ -1,0 +1,23 @@
+{
+  "name": "smart-pricing",
+  "version": "1.0.0",
+  "description": "A project for smart pricing calculations and management.",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "ts-node": "^10.4.0",
+    "jest": "^27.0.6",
+    "@types/jest": "^27.0.2",
+    "@types/node": "^16.11.7",
+    "@types/express": "^4.17.13"
+  },
+  "author": "",
+  "license": "ISC"
+}

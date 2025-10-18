@@ -1,0 +1,73 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer / pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Type checkers
+.mypy_cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Environment / secrets
+.env
+*.env
+
+# Streamlit
+.streamlit/
+
+# ML artifacts / model weights (recommended to ignore large binaries)
+# Uncomment if you don't want to commit models
+# models/
+# models/*.pkl
+# models/*.joblib
+# *.h5
+# *.pb
+
+# Data files (recommended to ignore if large or private)
+# Uncomment if you don't want to commit datasets
+# data/
+# data/*.csv
+
+# Database files
+*.sqlite3
+
+# Other
+*.bak
+*.tmp
