@@ -32,6 +32,7 @@ smart-pricing/
 ## Code to run the project
 
 venv\Scripts\activate
+
 streamlit run src/app/streamlit_app.py
 
 ## Basic description or moto to make the project 
